@@ -6,10 +6,9 @@ numero_secreto = random.randint(1,100)
 contador = 7
 acertou = False
 while contador > 0:
-
-
+    print ("Você tem ", contador, "tentativas restantes")
     tentativa = int(input("Digite seu palpite "))
-    contador = contador - 1
+    contador -= 1
     if tentativa == numero_secreto:
         print("Parabéns! Você acertou!")
         acertou = True
