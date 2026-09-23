@@ -1,4 +1,5 @@
-﻿# Projeto de Engenharia de Software - Branch Main
+
+﻿# Projeto de Engenharia de Software
 
 # ðŸŽ¯ Jogo de AdivinhaÃ§Ã£o em Python
 
